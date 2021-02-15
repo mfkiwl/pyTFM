@@ -5,3 +5,5 @@ also includes the line tension, a measure for the force transfer exclusively acr
 pyTFM includes an addon for the image annotation tool [clickpoints](https://clickpoints.readthedocs.io/en/latest/) allowing you to quickly analyze and vizualize large datasets.
 
 Please refer to the [Documentation](https://pytfm.readthedocs.io/en/latest/) of pyTFM for detailed instructions on installation and usage.
+
+The pyTFM publication preprint can be found at https://www.biorxiv.org/content/10.1101/2020.09.28.316430v1.
